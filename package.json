@@ -1,7 +1,7 @@
 {
   "name": "Thainge-Simple-Folio",
   "version": "1.0.1",
-  "homepage": "https://github.com/Thainge/custom-project-2#readme",
+  "homepage": "https://github.com/Thainge/Portfolio#readme",
   "private": "true",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": "src/index.html",
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Thainge/custom-project-2"
+    "url": "git+https://github.com/Thainge/Portfolio"
   },
   "keywords": [],
   "author": "Jacobo Martinez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Thainge/custom-project-2/issues"
+    "url": "https://github.com/Thainge/Portfolio/issues"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
